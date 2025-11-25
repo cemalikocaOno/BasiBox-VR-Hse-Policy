@@ -5,11 +5,11 @@ Basibox VR HSE is designed to operate fully offline, and no internet connection 
 
 COMMITMENT TO CONFIDENTIALITY
 
-Yankı Solutions is committed to protecting your privacy while you use Basibox VR HSE on the Meta Quest platform. Below are the key points of our privacy policy:
+Basibox is committed to protecting your privacy while you use Basibox VR HSE on the Meta Quest platform. Below are the key points of our privacy policy:
 
 Confidential Information
 
-“Confidential Information” refers to any data or information exchanged between Yankı Solutions and the user in any form. In the context of this application, no such exchange takes place. We guarantee that no personal data will be collected or stored by Basibox VR HSE.
+“Confidential Information” refers to any data or information exchanged between Basibox and the user in any form. In the context of this application, no such exchange takes place. We guarantee that no personal data will be collected or stored by Basibox VR HSE.
 
 Ownership and Use of Data
 
@@ -44,7 +44,7 @@ No data is shared with third parties
 
 HOW WE PROTECT YOUR PRIVACY
 
-Yankı Solutions is fully committed to respecting and protecting your privacy. We guarantee that:
+Basibox is fully committed to respecting and protecting your privacy. We guarantee that:
 
 Basibox VR HSE is an offline application
 
